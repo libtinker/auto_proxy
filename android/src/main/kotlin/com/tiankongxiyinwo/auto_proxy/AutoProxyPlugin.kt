@@ -1,4 +1,4 @@
-package com.tiankongxiyinwo.auto_proxy.auto_proxy
+package com.tiankongxiyinwo.auto_proxy
 
 import androidx.annotation.NonNull
 

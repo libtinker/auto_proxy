@@ -1,0 +1,9 @@
+build/
+.dart_tool/
+.idea/
+.vscode/
+*.iml
+example/build/
+android/.gradle/
+ios/Pods/
+node_modules/
